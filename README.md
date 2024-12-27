@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-- [**Client web:**]([https://reactiserv.vercel.app/](https://reactiserv.vercel.app/)): Webiste for a commercial consultant
+- **Website for a commercial consultant**:[(https://reactiserv.vercel.app/)](https://reactiserv.vercel.app/)): 
 - [**Chords Converter (in progress):**](https://capo-translator.vercel.app/): Webiste for a commercial consultant
 
 
@@ -25,7 +25,7 @@
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [So Dev][(https://linkedin.com/in/alex-dev)](https://www.linkedin.com/in/sonia-ouadhi/)
+- **LinkedIn**: [So Dev][(https://linkedin.com/in/sonia-ouadhi)](https://www.linkedin.com/in/sonia-ouadhi/)
 
 
 
