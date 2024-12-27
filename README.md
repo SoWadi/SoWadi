@@ -6,21 +6,15 @@
 
 - 🔭 Currently working on a chords converter to help music players to change the tone of a song to adapt to the voice pitch.
 - 🌱 Currently learning: React.
-- 💬 Ask me about: CSS, React, design, or web development in general. Even music!
+- 💬 Ask me about: CSS, React, design, or web development in general. Even music 🎵!
 - 📫 How to reach me: https://www.linkedin.com/in/sonia-ouadhi/
 
 ## 🛠️ Skills
 
 - **Languages**: [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,react,sass,bootstrap,ps,wordpress)](https://skillicons.dev)
 
-## 🎵 My Music Projects
 
-- ![Guitar Icon](https://path/to/guitar-icon.png) [Guitar Chords App](https://github.com/yourusername/guitar-chords)
-- ![Piano Icon](https://path/to/piano-icon.png) [Piano Trainer](https://github.com/yourusername/piano-trainer)
-
-
-
-## 🚀 Projects
+## 🚀 Main projects
 
 - **Website for a commercial consultant**:[https://reactiserv.vercel.app/](https://reactiserv.vercel.app/)
 - **Chords Converter (in progress):**[https://capo-translator.vercel.app/](https://capo-translator.vercel.app/)
