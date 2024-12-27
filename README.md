@@ -5,7 +5,7 @@
 ## 🌟 About Me
 
 - 🔭 Currently working on a chords converter to help music players to change the tone of a song to adapt to the voice pitch.
-- 🌱 Currently learning: React.
+- 🌱 Currently learning: React and testing.
 - 💬 Ask me about: CSS, React, design, or web development in general. Even music 🎵!
 - 📫 How to reach me: https://www.linkedin.com/in/sonia-ouadhi/
 
