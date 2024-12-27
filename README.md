@@ -27,6 +27,9 @@
 - **LinkedIn**: [So Dev][(https://linkedin.com/in/sonia-ouadhi)](https://www.linkedin.com/in/sonia-ouadhi/)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowadi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowadi&layout=compact&theme=radical)
+
 
 
 <!--
