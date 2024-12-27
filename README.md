@@ -17,14 +17,11 @@
 
 ## 🚀 Projects
 
-- [**Task Simplifier**](https://github.com/alex/task-simplifier): A simple and efficient task management application.
-- [**Weather API**](https://github.com/alex/weather-api): A RESTful API for real-time weather data.
-- [**Personal Portfolio**](https://github.com/alex/portfolio): My personal portfolio showcasing my projects and skills.
+- [**Client web:**]((https://reactiserv.vercel.app/)): Webiste for a commercial consultant
+- [**Chords Converter (in progress):**]((https://capo-translator.vercel.app/)): Webiste for a commercial consultant
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex&layout=compact&theme=radical)
+
 
 ## 🌐 Connect With Me
 
@@ -36,8 +33,15 @@
 <!--
 **SoWadi/SoWadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
+- [**Weather API**](https://github.com/alex/weather-api): A RESTful API for real-time weather data.
+- [**Personal Portfolio**](https://github.com/alex/portfolio): My personal portfolio showcasing my projects and skills.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex&layout=compact&theme=radical)
+
 
 Here are some ideas to get you started:
 
