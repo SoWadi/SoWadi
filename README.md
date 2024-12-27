@@ -17,8 +17,8 @@
 ## 🚀 Main projects
 
 - **Website for a commercial consultant(React)**:[https://reactiserv.vercel.app/](https://reactiserv.vercel.app/)
-- **ChordsConverter (Angular, in progress on react)**: [https://chords-converter.vercel.app/](https://chords-converter.vercel.app/)
-- **Chords Converter (React, in progress):**[https://capo-translator.vercel.app/](https://capo-translator.vercel.app/)
+- **ChordsConverter (React, in progress)**: [https://chords-converter.vercel.app/](https://chords-converter.vercel.app/)
+- **Chords Converter (Angular, in progress):**[https://capo-translator.vercel.app/](https://capo-translator.vercel.app/)
 - **Pokedex (Angular)** [https://pokedex-xi-one-79.vercel.app/pokemons](https://pokedex-xi-one-79.vercel.app/pokemons)
 
 
