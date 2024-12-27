@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-- **Website for a commercial consultant**:[(https://reactiserv.vercel.app/)](https://reactiserv.vercel.app/)): 
+- **Website for a commercial consultant**:[https://reactiserv.vercel.app/](https://reactiserv.vercel.app/)): 
 - [**Chords Converter (in progress):**](https://capo-translator.vercel.app/): Webiste for a commercial consultant
 
 
