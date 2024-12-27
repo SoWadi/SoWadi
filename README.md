@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills
 
-- **Languages**: [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
+- **Languages**: [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,react,sass,bootstrap,ps,wordpress)](https://skillicons.dev)
 - **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
