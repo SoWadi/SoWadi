@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills
 
-- **Languages**: [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,react,sass,bootstrap,ps,wordpress)](https://skillicons.dev)
+- **Languages**: [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,react,jest,babel,sass,bootstrap,ps,wordpress)](https://skillicons.dev)
 
 
 ## 🚀 Main projects
