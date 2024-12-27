@@ -1,20 +1,19 @@
-## Hi there 👋
-# Hi there, I'm Alex! 👋
+# Hi there, I'm Sonia! 👋
 
-🎉 Welcome to my GitHub profile! I'm a passionate full-stack developer who loves creating modern, scalable web applications.
+🎉 Welcome to my GitHub profile! I'm a passionate front-end developer who loves creating modern, scalable web applications.
 
 ## 🌟 About Me
 
-- 🔭 Currently working on: a task management application.
-- 🌱 Currently learning: TypeScript and Docker.
+- 🔭 Currently working on a chords converter to help music players to change the tone of a song to adapt to the voice pitch.
+- 🌱 Currently learning: React.
 - 💬 Ask me about: React, Node.js, or web development in general.
-- 📫 How to reach me: alex.dev@example.com.
+- 📫 How to reach me: https://www.linkedin.com/in/sonia-ouadhi/
 
 ## 🛠️ Skills
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ## 🚀 Projects
 
@@ -29,15 +28,14 @@
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [Alex Dev](https://linkedin.com/in/alex-dev)
-- **Portfolio**: [alex-portfolio.com](https://alex-portfolio.com)
-- **Twitter**: [@alexDev](https://twitter.com/alexDev)
+- **LinkedIn**: [So Dev][(https://linkedin.com/in/alex-dev)](https://www.linkedin.com/in/sonia-ouadhi/)
+
 
 
 
 <!--
 **SoWadi/SoWadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
