@@ -12,14 +12,13 @@
 ## 🛠️ Skills
 
 - **Languages**: [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,react,sass,bootstrap,ps,wordpress)](https://skillicons.dev)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
 
 ## 🚀 Projects
 
-- **Website for a commercial consultant**:[https://reactiserv.vercel.app/](https://reactiserv.vercel.app/)): 
-- [**Chords Converter (in progress):**](https://capo-translator.vercel.app/): Webiste for a commercial consultant
-
+- **Website for a commercial consultant**:[https://reactiserv.vercel.app/](https://reactiserv.vercel.app/)
+- **Chords Converter (in progress):**[https://capo-translator.vercel.app/](https://capo-translator.vercel.app/)
+- **Pokedex** [https://pokedex-xi-one-79.vercel.app/pokemons](https://pokedex-xi-one-79.vercel.app/pokemons)
 
 
 
@@ -38,7 +37,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 
 ## 📊 GitHub Stats
-
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alex&layout=compact&theme=radical)
 
