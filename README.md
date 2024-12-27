@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- **Languages**: [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
 - **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
@@ -36,6 +36,9 @@
 <!--
 **SoWadi/SoWadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
